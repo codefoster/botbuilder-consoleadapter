@@ -1,6 +1,6 @@
 {
   "name": "botbuilder-consoleadapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BotBuilder v4 Console Adapter",
   "main": "./lib/consoleAdapter.js",
   "scripts": {
